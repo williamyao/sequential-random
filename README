@@ -1,0 +1,9 @@
+Testing access speed differences between random access and sequential access
+of RAM.
+
+HOW TO USE:
+
+`make && ./random_access && ./sequential_access`
+`make clean`
+
+Requires 2GB of free RAM for accurate results.
